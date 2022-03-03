@@ -42,7 +42,7 @@ async def main():
                         seconds_left -= 60
                         await asyncio.sleep(60)
                 number_completed += 1
-                await asyncio.sleep(10 + 2 * random.random())
+                await asyncio.sleep(60 + 2 * random.random())
 
 
 with client:
