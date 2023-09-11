@@ -3,13 +3,13 @@ from random import choice
 
 def generate_report_message():
     First_part = [
-        "Propaganda of the war in Ukraine. ",
-        "Propaganda of the murder of Ukrainians and Ukrainian soldiers. ",
-        "Dissemination of military personal data. ",
-        "The channel undermines the integrity of the Ukrainian state. ",
-        "Spreading fake news, misleading people. ",
-        "Propaganda of violence and russian agression. ",
-        "Dangerous fake news from russian propagandist against Ukraine. ",
+        "Copyright Movies. ",
+        "Copyright Netflix series. ",
+        "Copyright Amharic Movies. ",
+        "Copyright Amharic Films. ",
+        "Copyright Music. ",
+        "Copyright Amharic Music. ",
+        "dangerous for film Industry. ",
     ]
     second_part = [
         "Block the channel! ",
